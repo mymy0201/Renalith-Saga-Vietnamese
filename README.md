@@ -10,7 +10,7 @@ Chạy `vietnamese/Play-Vietnamese.exe`. Bản vá trên GitHub cần dữ liệ
 
 ## Bản ZIP đầy đủ cục bộ
 
-Giải nén toàn bộ ZIP rồi chạy `vietnamese/Play-Vietnamese.bat`.
+Giải nén toàn bộ ZIP rồi chạy `vietnamese/Play-Vietnamese.exe`.
 Không cần Python, Ollama hay công cụ dịch để chơi.
 Save mới nằm trong `vietnamese/saves/saves-vietnamese`.
 Bản đóng gói không chứa save cá nhân; hãy giữ bản sao save của bạn khi cập nhật.
