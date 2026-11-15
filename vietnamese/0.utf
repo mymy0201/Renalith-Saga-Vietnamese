@@ -18168,7 +18168,7 @@ bg "bb\bg-103.jpg",2
 lsp 31,":c/2,0,3;vietnamese\ui-images\image\ve-10.png",490,100 : spbtn 31,31;――――戦闘フィールド
 
 
-mov $39,":s/24,24,0,2;#FFCC33^"+"Red River"
+mov $39,":s/24,24,0,2;#FFCC33^"+"Sông Đỏ"
 lsp 39,$39,570,20
 
 goto *mati_coma_yoke
@@ -295178,7 +295178,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^nghi lễ Hiệp định Tam tộc ―― chính là bãi bồi giữa dòng
 gosub *vn_wrap_guard
-^Red River này)\
+^Sông Đỏ này)\
 return
 
 *vn_text_000539
@@ -295673,7 +295673,7 @@ return
 
 *vn_text_000617
 gosub *vn_wrap_guard
-^“Sukuru! Sao cậu lại ở Red River!?”\
+^“Sukuru! Sao cậu lại ở Sông Đỏ!?”\
 return
 
 *vn_text_000618
@@ -296149,7 +296149,7 @@ return
 gosub *vn_wrap_guard
 ^「...Ta nhớ ra rồi. Ngươi vẫn còn sống sao? Việc để ngươi
 gosub *vn_wrap_guard
-^một mình đến Red River với tư cách là ca nữ của loài người
+^một mình đến Sông Đỏ với tư cách là ca nữ của loài người
 gosub *vn_wrap_guard
 ^là chỉ thị của ta. Ta xin lỗi vì đã gây ra chuyện đó cho
 gosub *vn_wrap_guard
@@ -301381,7 +301381,7 @@ return
 gosub *vn_wrap_guard
 ^「Không sai được ạ. Em còn có một cái tương tự. Khi em
 gosub *vn_wrap_guard
-^đánh bại một con Slime kỳ lạ trên đường đến Red River, nó
+^đánh bại một con Slime kỳ lạ trên đường đến Sông Đỏ, nó
 gosub *vn_wrap_guard
 ^cũng rơi ra một cái.」\
 return
@@ -306222,7 +306222,7 @@ return
 gosub *vn_wrap_guard
 ^「Xin lỗi... Lagrima chúng ta đã gửi một người không biết
 gosub *vn_wrap_guard
-^gì như ngươi đến Red River làm vật hiến tế... Thật sự xin lỗi
+^gì như ngươi đến Sông Đỏ làm vật hiến tế... Thật sự xin lỗi
 gosub *vn_wrap_guard
 ^ngươi...」\
 return
@@ -306412,7 +306412,7 @@ return
 gosub *vn_wrap_guard
 ^「Tôi nhớ rất rõ về ngài. Nỗi uất hận khi bị bắt làm con tin
 gosub *vn_wrap_guard
-^ở Red River, đến giờ tôi vẫn không quên. Hành vi hèn hạ
+^ở Sông Đỏ, đến giờ tôi vẫn không quên. Hành vi hèn hạ
 gosub *vn_wrap_guard
 ^đó, chắc ngài vẫn còn nhớ chứ?」\
 return
@@ -308471,7 +308471,7 @@ return
 gosub *vn_wrap_guard
 ^「Chuyện là... từ đầu năm nay, quân đoàn Đại Ma Vương đã
 gosub *vn_wrap_guard
-^vượt qua Red River và xâm chiếm lãnh thổ của chúng tôi.
+^vượt qua Sông Đỏ và xâm chiếm lãnh thổ của chúng tôi.
 gosub *vn_wrap_guard
 ^Ngài Chaos không biết chuyện này sao ạ?」\
 return
@@ -317458,7 +317458,7 @@ return
 gosub *vn_wrap_guard
 ^「Vì cha ta, Sitar! Và để cầu siêu cho những người đã ngã
 gosub *vn_wrap_guard
-^xuống tại Red River, ta sẽ đánh bại ngươi――! Hãy nếm
+^xuống tại Sông Đỏ, ta sẽ đánh bại ngươi――! Hãy nếm
 gosub *vn_wrap_guard
 ^mùi kiếm của ta đây!」\
 return
@@ -319223,7 +319223,7 @@ return
 gosub *vn_wrap_guard
 ^「Hê hê hê…… ngươi thực sự rất mạnh…… khác hẳn với
 gosub *vn_wrap_guard
-^lúc ở Red River…… một sức mạnh đầy bản lĩnh……」\
+^lúc ở Sông Đỏ…… một sức mạnh đầy bản lĩnh……」\
 return
 
 *vn_text_004550
@@ -324981,7 +324981,7 @@ return
 gosub *vn_wrap_guard
 ^(Cuối cùng mình cũng đã quay trở lại được thành Miser.
 gosub *vn_wrap_guard
-^Tiếp theo là băng qua Red River để đến ma thành nơi
+^Tiếp theo là băng qua Sông Đỏ để đến ma thành nơi
 gosub *vn_wrap_guard
 ^Sukuru đang ở――)
 return
@@ -325101,7 +325101,7 @@ return
 
 *vn_text_005521
 gosub *vn_wrap_guard
-^「Tôi muốn băng qua Red River để đến ma thành phía
+^「Tôi muốn băng qua Sông Đỏ để đến ma thành phía
 gosub *vn_wrap_guard
 ^trước... nhưng có vẻ ngươi sẽ không để tôi đi dễ dàng như
 gosub *vn_wrap_guard
@@ -328653,7 +328653,7 @@ return
 gosub *vn_wrap_guard
 ^「............Tớ không thể làm vậy được. Vì tớ cũng từng được
 gosub *vn_wrap_guard
-^cậu cứu giúp tương tự như thế ở Red River mà...」\
+^cậu cứu giúp tương tự như thế ở Sông Đỏ mà...」\
 return
 
 *vn_text_006108
@@ -339725,7 +339725,7 @@ return
 gosub *vn_wrap_guard
 ^「Ối, lạc đề mất rồi. Việc đi đến đất nước ma tộc nghĩa là
 gosub *vn_wrap_guard
-^cháu phải băng qua Red River ở biên giới. Điều đó có lẽ là
+^cháu phải băng qua Sông Đỏ ở biên giới. Điều đó có lẽ là
 gosub *vn_wrap_guard
 ^khả thi, nhưng――」\
 return
@@ -340108,7 +340108,7 @@ return
 gosub *vn_wrap_guard
 ^「Ta khen ngợi ý chí khi ngươi tìm đến tận đây. Nhưng hãy
 gosub *vn_wrap_guard
-^ngoan ngoãn quay lại Red River rồi trở về lãnh thổ loài
+^ngoan ngoãn quay lại Sông Đỏ rồi trở về lãnh thổ loài
 gosub *vn_wrap_guard
 ^người đi. Ngươi nghĩ ma tộc chúng ta sẽ lắng nghe nguyện
 gosub *vn_wrap_guard
@@ -340802,7 +340802,7 @@ return
 
 *vn_text_008102
 gosub *vn_wrap_guard
-^「Hắt―― (Không ngờ Ma thành Seikima gần Red River lại
+^「Hắt―― (Không ngờ Ma thành Seikima gần Sông Đỏ lại
 gosub *vn_wrap_guard
 ^là lâu đài nơi Đại Ma Vương ngự trị... Nghĩ lại thì mình đã đi
 gosub *vn_wrap_guard
@@ -340885,7 +340885,7 @@ return
 
 *vn_text_008115
 gosub *vn_wrap_guard
-^「Nghi lễ hiệp định tam tộc tại Red River sẽ diễn ra sau 10
+^「Nghi lễ hiệp định tam tộc tại Sông Đỏ sẽ diễn ra sau 10
 gosub *vn_wrap_guard
 ^năm nữa. Ngươi có biết điều này không?」\
 return
@@ -340903,7 +340903,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^Lagrima, và để nâng cao uy thế quốc gia, đã có những cuộc
 gosub *vn_wrap_guard
-^thảo luận về việc vượt sông Red River ở biên giới để tấn
+^thảo luận về việc vượt sông Sông Đỏ ở biên giới để tấn
 gosub *vn_wrap_guard
 ^công phía ma tộc」\
 return
@@ -341840,7 +341840,7 @@ return
 gosub *vn_wrap_guard
 ^「Ta đã dặn từ trước rồi, tuyệt đối không được băng qua
 gosub *vn_wrap_guard
-^sông Red River nghe chưa? Phía bên kia sông là lãnh thổ
+^sông Sông Đỏ nghe chưa? Phía bên kia sông là lãnh thổ
 gosub *vn_wrap_guard
 ^của ma tộc―― không được phép lại gần」#F09030(3／3)#FFFFFF\
 return
@@ -343508,7 +343508,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^người】, 【Chiến binh ma tộc】 và 【Vu nữ elf】 lần lượt
 gosub *vn_wrap_guard
-^làm đại diện để ký kết tại Red River vùng biên giới.\
+^làm đại diện để ký kết tại Sông Đỏ vùng biên giới.\
 return
 
 *vn_text_008529
@@ -343882,7 +343882,7 @@ return
 
 *vn_text_008572
 gosub *vn_wrap_guard
-^「Trước khi đến Red River, hãy thử ghé qua thành Miser
+^「Trước khi đến Sông Đỏ, hãy thử ghé qua thành Miser
 gosub *vn_wrap_guard
 ^xem sao. Có lẽ vẫn còn những người khác đang bị giam
 gosub *vn_wrap_guard
@@ -343905,7 +343905,7 @@ return
 
 *vn_text_008575
 gosub *vn_wrap_guard
-^「Có vẻ như mình phải băng qua Red River một lần nữa
+^「Có vẻ như mình phải băng qua Sông Đỏ một lần nữa
 gosub *vn_wrap_guard
 ^mới đi tiếp được…… Được rồi, phải quyết tâm cố gắng thôi
 gosub *vn_wrap_guard
@@ -344185,7 +344185,7 @@ return
 
 *vn_text_008615
 gosub *vn_wrap_guard
-^「Trước khi đến Red River, phải ghé qua thành Miser
+^「Trước khi đến Sông Đỏ, phải ghé qua thành Miser
 gosub *vn_wrap_guard
 ^đã...」\
 return
@@ -344520,7 +344520,7 @@ return
 
 *vn_text_008674
 gosub *vn_wrap_guard
-^「Không biết con Slime lớn nằm ở đâu trong Red River
+^「Không biết con Slime lớn nằm ở đâu trong Sông Đỏ
 gosub *vn_wrap_guard
 ^nhỉ? Thử tìm xem sao」\
 return
@@ -344610,7 +344610,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^nhưng để hoàn thành vai trò ca sĩ của loài người, mình sẽ
 gosub *vn_wrap_guard
-^tiến về bãi bồi của Red River)\
+^tiến về bãi bồi của Sông Đỏ)\
 return
 
 *vn_text_008687
@@ -345392,7 +345392,7 @@ return
 
 *vn_text_008788
 gosub *vn_wrap_guard
-^(Đi qua Red River để đến ma thành... Mình đã vung kiếm
+^(Đi qua Sông Đỏ để đến ma thành... Mình đã vung kiếm
 gosub *vn_wrap_guard
 ^suốt thời gian qua, và đây sẽ là trận chiến cuối cùng. Mình
 gosub *vn_wrap_guard
@@ -351945,7 +351945,7 @@ return
 gosub *vn_wrap_guard
 ^「Cũng sắp đến cuối năm rồi―― Sắp tới ngày diễn ra nghi
 gosub *vn_wrap_guard
-^lễ gia hạn hiệp ước bất khả xâm phạm tại Red River sau 100
+^lễ gia hạn hiệp ước bất khả xâm phạm tại Sông Đỏ sau 100
 gosub *vn_wrap_guard
 ^năm rồi nhỉ. Cô có biết không?」\
 return
@@ -354011,7 +354011,7 @@ return
 gosub *vn_wrap_guard
 ^「Hừ, chắc ngươi không còn việc gì ở đây nữa đâu! Mau về
 gosub *vn_wrap_guard
-^làng đi. Hãy hoàn thành nghi lễ tại Red River cho tốt vào!」\
+^làng đi. Hãy hoàn thành nghi lễ tại Sông Đỏ cho tốt vào!」\
 return
 
 *vn_text_010200
@@ -355536,7 +355536,7 @@ return
 
 *vn_text_010398
 gosub *vn_wrap_guard
-^「Vì thất bại ở Red River và cuộc nội loạn lần này mà quân
+^「Vì thất bại ở Sông Đỏ và cuộc nội loạn lần này mà quân
 gosub *vn_wrap_guard
 ^số từ hơn 10 vạn đã giảm xuống còn 3 vạn. Trước trận
 gosub *vn_wrap_guard
@@ -363216,7 +363216,7 @@ return
 
 *vn_text_011546
 gosub *vn_wrap_guard
-^「Trên báo viết rằng họ đã thắng lớn ở Red River, không
+^「Trên báo viết rằng họ đã thắng lớn ở Sông Đỏ, không
 gosub *vn_wrap_guard
 ^biết có thật không nữa…… Tôi thì không nghĩ là như
 gosub *vn_wrap_guard
@@ -363880,7 +363880,7 @@ return
 
 *vn_text_011648
 gosub *vn_wrap_guard
-^「Kể từ sau trận chiến Red River, hắn tự tiện xưng danh
+^「Kể từ sau trận chiến Sông Đỏ, hắn tự tiện xưng danh
 gosub *vn_wrap_guard
 ^tướng quân! Chỉ vì là kẻ được lòng tể tướng mà thăng tiến
 gosub *vn_wrap_guard
@@ -364368,7 +364368,7 @@ return
 
 *vn_text_011726
 gosub *vn_wrap_guard
-^「Đúng vậy nhỉ…… Dù sao thì trận Red River vừa rồi cũng
+^「Đúng vậy nhỉ…… Dù sao thì trận Sông Đỏ vừa rồi cũng
 gosub *vn_wrap_guard
 ^thua thảm hại quá mà…… Có vẻ mọi người đều đang tích
 gosub *vn_wrap_guard
@@ -365276,7 +365276,7 @@ return
 gosub *vn_wrap_guard
 ^「Ta đã thấy lạ khi ngươi không cho ta gặp anh trai kể từ
 gosub *vn_wrap_guard
-^sau thất bại ở Red River. Giờ thì ta đã có bằng chứng xác
+^sau thất bại ở Sông Đỏ. Giờ thì ta đã có bằng chứng xác
 gosub *vn_wrap_guard
 ^thực. Bấy lâu nay ngươi đã lừa dối ta và người dân」\
 return
@@ -376426,7 +376426,7 @@ return
 gosub *vn_wrap_guard
 ^「Sao nào? Thay bằng một cô gái khác cũng được mà? Trên
 gosub *vn_wrap_guard
-^đường đến Red River sẽ có nguy cơ bị quái vật hoang dã tấn
+^đường đến Sông Đỏ sẽ có nguy cơ bị quái vật hoang dã tấn
 gosub *vn_wrap_guard
 ^công, cháu không muốn suy nghĩ lại sao?」\
 return
@@ -379746,7 +379746,7 @@ return
 
 *vn_text_014294
 gosub *vn_wrap_guard
-^「Đúng vậy. Việc bị đại bại ở Red River là thật, nhưng ngài
+^「Đúng vậy. Việc bị đại bại ở Sông Đỏ là thật, nhưng ngài
 gosub *vn_wrap_guard
 ^ấy đã băng qua lối đi đông tây và trở về đế đô này một cách
 gosub *vn_wrap_guard
@@ -380244,7 +380244,7 @@ return
 gosub *vn_wrap_guard
 ^「Không có gì, vì là người của ngôi làng vùng biên giới nên
 gosub *vn_wrap_guard
-^sẽ gần với Red River, nơi diễn ra hiệp định. Hãy tự hào vì
+^sẽ gần với Sông Đỏ, nơi diễn ra hiệp định. Hãy tự hào vì
 gosub *vn_wrap_guard
 ^mình đã được chọn vào vai ca nữ của loài người」\
 return
@@ -383277,7 +383277,7 @@ return
 gosub *vn_wrap_guard
 ^「Ưm! Thời tiết thật sảng khoái! Đã lâu lắm rồi mình mới
 gosub *vn_wrap_guard
-^lại đến bãi bồi giữa sông Red River này nhỉ」\
+^lại đến bãi bồi giữa sông Sông Đỏ này nhỉ」\
 return
 
 *vn_text_014848
@@ -383380,7 +383380,7 @@ return
 
 *vn_text_014866
 gosub *vn_wrap_guard
-^――――Renalith rời khỏi bãi bồi giữa sông Red River.\
+^――――Renalith rời khỏi bãi bồi giữa sông Sông Đỏ.\
 return
 
 *vn_text_014867
@@ -383669,7 +383669,7 @@ return
 
 *vn_text_014913
 gosub *vn_wrap_guard
-^「Từ Red River ở phía tây này, Ma thành Seikima nơi đồn
+^「Từ Sông Đỏ ở phía tây này, Ma thành Seikima nơi đồn
 gosub *vn_wrap_guard
 ^rằng Đại Ma Vương đang ngự trị là rất gần. Nếu hạ được
 gosub *vn_wrap_guard
@@ -383713,7 +383713,7 @@ return
 
 *vn_text_014919
 gosub *vn_wrap_guard
-^――――Pazette lưu luyến rời khỏi Red River...
+^――――Pazette lưu luyến rời khỏi Sông Đỏ...
 return
 
 *vn_text_014920
@@ -383733,7 +383733,7 @@ return
 
 *vn_text_014923
 gosub *vn_wrap_guard
-^(……! Ma tộc từ Red River đang tiến về phía nam――!)
+^(……! Ma tộc từ Sông Đỏ đang tiến về phía nam――!)
 return
 
 *vn_text_014924
@@ -383828,7 +383828,7 @@ return
 
 *vn_text_014940
 gosub *vn_wrap_guard
-^「Hà, hà! Bị ma tộc truy kích trong rừng Red River, chúng
+^「Hà, hà! Bị ma tộc truy kích trong rừng Sông Đỏ, chúng
 gosub *vn_wrap_guard
 ^tôi đã liều mạng chạy thoát về đến tận ngôi làng này! Ngôi
 gosub *vn_wrap_guard
@@ -383858,7 +383858,7 @@ return
 
 *vn_text_014944
 gosub *vn_wrap_guard
-^「Còn Renalith... Renalith đã đi đến Red River thì
+^「Còn Renalith... Renalith đã đi đến Sông Đỏ thì
 gosub *vn_wrap_guard
 ^sao……?」\
 return
@@ -383892,7 +383892,7 @@ return
 
 *vn_text_014950
 gosub *vn_wrap_guard
-^(Ư...! Không sai được... Đại quân ma tộc từ Red River đang
+^(Ư...! Không sai được... Đại quân ma tộc từ Sông Đỏ đang
 gosub *vn_wrap_guard
 ^hướng về làng Iris sao!? Mình phải mau chóng quay lại chỗ
 gosub *vn_wrap_guard
@@ -388066,7 +388066,7 @@ return
 gosub *vn_wrap_guard
 ^「Fufufu... Tuy chúng ta không trò chuyện, nhưng tôi đã
 gosub *vn_wrap_guard
-^nhìn thấy cô. Tại Red River, trước khi Hiệp định Tam tộc
+^nhìn thấy cô. Tại Sông Đỏ, trước khi Hiệp định Tam tộc
 gosub *vn_wrap_guard
 ^diễn ra...」\
 return
@@ -388228,7 +388228,7 @@ return
 gosub *vn_wrap_guard
 ^「Sukuru sao? Chuyện đó... Sau trận chiến với ma tộc ở
 gosub *vn_wrap_guard
-^Red River, cậu ấy đã bị bắt đưa đến Ma thành Seikima...」\
+^Sông Đỏ, cậu ấy đã bị bắt đưa đến Ma thành Seikima...」\
 return
 
 *vn_text_015657
@@ -388238,7 +388238,7 @@ return
 
 *vn_text_015658
 gosub *vn_wrap_guard
-^「...Quả nhiên là vậy sao. Từ sau trận chiến ở Red River, tôi
+^「...Quả nhiên là vậy sao. Từ sau trận chiến ở Sông Đỏ, tôi
 gosub *vn_wrap_guard
 ^không thể liên lạc được với ngài Skuld... nên tôi vẫn luôn lo
 gosub *vn_wrap_guard
@@ -395482,7 +395482,7 @@ return
 
 *vn_text_016932
 gosub *vn_wrap_guard
-^「Làng Iris? Nếu là ngôi làng đó thì lũ Orc từ Red River tiến
+^「Làng Iris? Nếu là ngôi làng đó thì lũ Orc từ Sông Đỏ tiến
 gosub *vn_wrap_guard
 ^xuống phía nam đang tấn công rồi. Giờ đây Thành Miser
 gosub *vn_wrap_guard
@@ -417566,7 +417566,7 @@ return
 gosub *vn_wrap_guard
 ^「Cô đã khiến tôi khá vất vả đấy…… Lúc cô chạy thoát ở
 gosub *vn_wrap_guard
-^Red River tôi đã toát mồ hôi hột, nhưng giờ bắt được rồi thì
+^Sông Đỏ tôi đã toát mồ hôi hột, nhưng giờ bắt được rồi thì
 gosub *vn_wrap_guard
 ^tôi nhẹ nhõm quá」\
 return
@@ -456559,7 +456559,7 @@ return
 
 *vn_text_026301
 gosub *vn_wrap_guard
-^「Con nhỏ này――? Chẳng phải là đứa ở Red River sao? Nó
+^「Con nhỏ này――? Chẳng phải là đứa ở Sông Đỏ sao? Nó
 gosub *vn_wrap_guard
 ^thực sự là Anh hùng Desire à?」\
 return
@@ -457057,14 +457057,14 @@ return
 gosub *vn_wrap_guard
 ^「May quá. Em vẫn bình an vô sự. Chị cứ ngỡ em đã bị giết
 gosub *vn_wrap_guard
-^ở Red River rồi. Thật là may quá……」\
+^ở Sông Đỏ rồi. Thật là may quá……」\
 return
 
 *vn_text_026384
 gosub *vn_wrap_guard
 ^「Em xin lỗi vì đã khiến mọi người lo lắng. Kể từ khi hướng
 gosub *vn_wrap_guard
-^về Red River đã có rất nhiều chuyện xảy ra…… nên em mới
+^về Sông Đỏ đã có rất nhiều chuyện xảy ra…… nên em mới
 gosub *vn_wrap_guard
 ^đến muộn thế này」\
 return
@@ -475326,7 +475326,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^vương đã phán thì có thể tin được. Cuối năm nay, ta sẽ dẫn
 gosub *vn_wrap_guard
-^dắt đại quân tiến về Red River nơi biên giới」\
+^dắt đại quân tiến về Sông Đỏ nơi biên giới」\
 return
 
 *vn_text_029401
@@ -475476,7 +475476,7 @@ return
 
 *vn_text_029422
 gosub *vn_wrap_guard
-^「Ngài Sitar cũng sẽ xuất quân đến Red River ở biên giới
+^「Ngài Sitar cũng sẽ xuất quân đến Sông Đỏ ở biên giới
 gosub *vn_wrap_guard
 ^sao?」\
 return
@@ -476096,7 +476096,7 @@ return
 gosub *vn_wrap_guard
 ^「Đó cũng là để xác nhận điều đó. Nếu là thật, vùng xung
 gosub *vn_wrap_guard
-^quanh Red River sẽ trở thành vùng đất của lửa chiến」\
+^quanh Sông Đỏ sẽ trở thành vùng đất của lửa chiến」\
 return
 
 *vn_text_029523
@@ -476160,7 +476160,7 @@ return
 gosub *vn_wrap_guard
 ^――――Thủ lĩnh của elf, Chúa Tinh Linh Skuld đã khởi
 gosub *vn_wrap_guard
-^hành đến Red River.
+^hành đến Sông Đỏ.
 return
 
 *vn_text_029533
@@ -476185,7 +476185,7 @@ return
 
 *vn_text_029537
 gosub *vn_wrap_guard
-^「……Đây là bãi bồi của Red River. Nơi Nghi lễ Hiệp định
+^「……Đây là bãi bồi của Sông Đỏ. Nơi Nghi lễ Hiệp định
 gosub *vn_wrap_guard
 ^Tam Tộc sẽ diễn ra…………」\
 return
@@ -476319,7 +476319,7 @@ return
 
 *vn_text_029561
 gosub *vn_wrap_guard
-^「Đây là…… Red River…… gần đây có một ngôi làng biên
+^「Đây là…… Sông Đỏ…… gần đây có một ngôi làng biên
 gosub *vn_wrap_guard
 ^giới, làng Iris…… mọi người cùng sống ở đó……」\
 return
@@ -477310,14 +477310,14 @@ return
 
 *vn_text_029732
 gosub *vn_wrap_guard
-^「Rồi rồi. Cháu đến ngay đây. Để cháu chẻ xong chỗ củi này
+^「Rồi rồi. Tớ đến ngay đây. Để tớ chẻ xong chỗ củi này
 gosub *vn_wrap_guard
 ^đã」\
 return
 
 *vn_text_029733
 gosub *vn_wrap_guard
-^「……Sao vậy ạ? Dao bị kẹt ạ?」\
+^「……Sao vậy? Dao bị kẹt à?」\
 return
 
 *vn_text_029734
@@ -477336,7 +477336,7 @@ return
 
 *vn_text_029736
 gosub *vn_wrap_guard
-^「Được rồi! Vậy để cháu làm cho!」\
+^「Được rồi! Vậy để tớ làm cho!」\
 return
 
 *vn_text_029737
@@ -477370,7 +477370,7 @@ return
 
 *vn_text_029742
 gosub *vn_wrap_guard
-^「A ha ha…… cháu xin lỗi. Cháu lỡ tay làm hơi quá……」\
+^「A ha ha…… tớ xin lỗi. Tớ lỡ tay làm hơi quá……」\
 return
 
 *vn_text_029743
@@ -477458,7 +477458,7 @@ return
 
 *vn_text_029758
 gosub *vn_wrap_guard
-^「……Vâng. Cũng tạm ạ. Em đã gửi cho sơ Misa rồi. Sắp
+^「……Vâng. Cũng tạm. Tớ đã gửi cho sơ Misa rồi. Sắp
 gosub *vn_wrap_guard
 ^đến giờ ăn tối rồi đấy.」\
 return
@@ -477566,7 +477566,7 @@ return
 
 *vn_text_029776
 gosub *vn_wrap_guard
-^「Không được đâu. Đừng có đi đến gần Red River ở biên
+^「Không được đâu. Đừng có đi đến gần Sông Đỏ ở biên
 gosub *vn_wrap_guard
 ^giới. Dù nói là không có ma tộc, nhưng nơi đó là đường
 gosub *vn_wrap_guard
@@ -477577,7 +477577,7 @@ return
 
 *vn_text_029777
 gosub *vn_wrap_guard
-^「……Vâng ạ (Nhưng gần sông Red River là nơi thu hoạch
+^「……Vâng ạ (Nhưng gần sông Sông Đỏ là nơi thu hoạch
 gosub *vn_wrap_guard
 ^được nhiều thứ nhất mà…… Sukuru cũng nghĩ vậy đúng
 gosub *vn_wrap_guard
@@ -477611,7 +477611,7 @@ return
 gosub *vn_wrap_guard
 ^「Để cháu dán cao cho lưng trưởng làng xong sẽ đến nhà
 gosub *vn_wrap_guard
-^thờ ngay. Cảm ơn hai cháu đã đến báo nhé.」\
+^thờ ngay. Cảm ơn hai cậu đã đến báo nhé.」\
 return
 
 *vn_text_029782
@@ -477785,7 +477785,7 @@ return
 gosub *vn_wrap_guard
 ^Đây là làng Iris nơi biên giới. Tại đó, chúng tôi đã cùng
 gosub *vn_wrap_guard
-^nhau menjalani một cuộc sống tuy giản dị nhưng hạnh
+^nhau tận hưởng một cuộc sống tuy giản dị nhưng hạnh
 gosub *vn_wrap_guard
 ^phúc.
 return
@@ -478197,7 +478197,7 @@ return
 gosub *vn_wrap_guard
 ^「Cháu đến đúng lúc lắm, Renalith. Có một con quái vật
 gosub *vn_wrap_guard
-^phiền phức xuất hiện ở Red River」\
+^phiền phức xuất hiện ở Sông Đỏ」\
 return
 
 *vn_text_029882
@@ -478230,7 +478230,7 @@ return
 
 *vn_text_029886
 gosub *vn_wrap_guard
-^「Khi chị tình cờ đi ngang qua đường đến Red River thì
+^「Khi chị tình cờ đi ngang qua đường đến Sông Đỏ thì
 gosub *vn_wrap_guard
 ^thấy nó ở bờ nước. Nó còn ăn ngấu nghiến cả cá dưới sông
 gosub *vn_wrap_guard
@@ -478246,7 +478246,7 @@ return
 
 *vn_text_029888
 gosub *vn_wrap_guard
-^「Nếu cháu đang rảnh, cháu có thể đến Red River giúp ta
+^「Nếu cháu đang rảnh, cháu có thể đến Sông Đỏ giúp ta
 gosub *vn_wrap_guard
 ^không? Ta muốn cháu tiêu diệt con Slime khổng lồ phiền
 gosub *vn_wrap_guard
@@ -478294,7 +478294,7 @@ return
 
 *vn_text_029896
 gosub *vn_wrap_guard
-^「Ồ, cháu về rồi sao Renalith. Có vẻ cháu đã đến Red River
+^「Ồ, cháu về rồi sao Renalith. Có vẻ cháu đã đến Sông Đỏ
 gosub *vn_wrap_guard
 ^rồi nhỉ」\
 return
@@ -478362,7 +478362,7 @@ return
 gosub *vn_wrap_guard
 ^「Ừm, đúng là một chiếc chuông đầy huyền bí. Dù sao thì
 gosub *vn_wrap_guard
-^đi đến Red River chắc cháu cũng mệt rồi. Hãy về nhà nghỉ
+^đi đến Sông Đỏ chắc cháu cũng mệt rồi. Hãy về nhà nghỉ
 gosub *vn_wrap_guard
 ^ngơi đi」\
 return
@@ -479056,7 +479056,7 @@ return
 gosub *vn_wrap_guard
 ^「Vì nhìn từ đây có thể quan sát toàn bộ khu vực xung
 gosub *vn_wrap_guard
-^quanh Red River, nên tớ muốn xem tình hình con sông thế
+^quanh Sông Đỏ, nên tớ muốn xem tình hình con sông thế
 gosub *vn_wrap_guard
 ^nào……」\
 return
@@ -479065,7 +479065,7 @@ return
 gosub *vn_wrap_guard
 ^「Tình hình……? Tại sao cậu lại muốn biết tình hình của
 gosub *vn_wrap_guard
-^Red River?」\
+^Sông Đỏ?」\
 return
 
 *vn_text_030026
@@ -479675,12 +479675,12 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^lớn là nhờ vào hiệp định này. Và lần gia hạn hiệp định đó sẽ
 gosub *vn_wrap_guard
-^diễn ra tại Red River...」\
+^diễn ra tại Sông Đỏ...」\
 return
 
 *vn_text_030128
 gosub *vn_wrap_guard
-^「!! Tại Red River sao!?」\
+^「!! Tại Sông Đỏ sao!?」\
 return
 
 *vn_text_030129
@@ -479704,7 +479704,7 @@ return
 gosub *vn_wrap_guard
 ^「Tất nhiên là tôi biết về Nghi lễ Hiệp định Tam tộc. Lễ đó
 gosub *vn_wrap_guard
-^sẽ được tổ chức tại Red River đúng không? Vậy ngài đến
+^sẽ được tổ chức tại Sông Đỏ đúng không? Vậy ngài đến
 gosub *vn_wrap_guard
 ^ngôi làng này có việc gì ạ?」\
 return
@@ -480662,7 +480662,7 @@ return
 
 *vn_text_030294
 gosub *vn_wrap_guard
-^「Địa điểm cũng là vùng bãi bồi ở Red River mà tớ biết từ
+^「Địa điểm cũng là vùng bãi bồi ở Sông Đỏ mà tớ biết từ
 gosub *vn_wrap_guard
 ^nhỏ, nên không có vấn đề gì đâu」\
 return
@@ -480681,7 +480681,7 @@ return
 
 *vn_text_030297
 gosub *vn_wrap_guard
-^「...Tớ hiểu rồi. Hãy cẩn thận khi đến Red River nhé」\
+^「...Tớ hiểu rồi. Hãy cẩn thận khi đến Sông Đỏ nhé」\
 return
 
 *vn_text_030298
@@ -480731,7 +480731,7 @@ return
 
 *vn_text_030307
 gosub *vn_wrap_guard
-^「Vâng, thưa trưởng làng. Cháu sẽ khởi hành đến Red River
+^「Vâng, thưa trưởng làng. Cháu sẽ khởi hành đến Sông Đỏ
 gosub *vn_wrap_guard
 ^sớm để kịp lễ nghi lúc hoàng hôn ạ」\
 return
@@ -480772,7 +480772,7 @@ return
 
 *vn_text_030314
 gosub *vn_wrap_guard
-^――Renalith đã khởi hành đến Red River, nơi diễn ra hiệp
+^――Renalith đã khởi hành đến Sông Đỏ, nơi diễn ra hiệp
 gosub *vn_wrap_guard
 ^ước tam tộc!
 return
@@ -481075,7 +481075,7 @@ return
 gosub *vn_wrap_guard
 ^「Nghe cho rõ đây! Kể từ giờ, chúng ta sẽ tiêu diệt quân
 gosub *vn_wrap_guard
-^đoàn Đại Ma Vương đang đóng dọc biên giới Red River!
+^đoàn Đại Ma Vương đang đóng dọc biên giới Sông Đỏ!
 gosub *vn_wrap_guard
 ^Chúng ta là quân đội Đế quốc Lagrima mạnh nhất! Hãy lấy
 gosub *vn_wrap_guard
@@ -481091,7 +481091,7 @@ return
 gosub *vn_wrap_guard
 ^(Cái gì!? Hiệp định kéo dài 500 năm qua đã không được ký
 gosub *vn_wrap_guard
-^kết sao!? Vậy thì, Renalith, người đã tiến về Red River sẽ...!)\
+^kết sao!? Vậy thì, Renalith, người đã tiến về Sông Đỏ sẽ...!)\
 return
 
 *vn_text_030366
@@ -482136,7 +482136,7 @@ return
 
 *vn_text_030544
 gosub *vn_wrap_guard
-^――――Renalith bị đẩy xuống Red River!
+^――――Renalith bị đẩy xuống Sông Đỏ!
 return
 
 *vn_text_030545
@@ -482318,7 +482318,7 @@ return
 
 *vn_text_030574
 gosub *vn_wrap_guard
-^――――Quân đoàn Đại Ma Vương vượt qua Red River nơi
+^――――Quân đoàn Đại Ma Vương vượt qua Sông Đỏ nơi
 gosub *vn_wrap_guard
 ^biên giới. Đó là bước chân đầu tiên khởi đầu cho nỗi kinh
 gosub *vn_wrap_guard
@@ -482354,7 +482354,7 @@ return
 
 *vn_text_030580
 gosub *vn_wrap_guard
-^「Cái gì? Không lẽ ma tộc đã vượt qua Red River và bắt đầu
+^「Cái gì? Không lẽ ma tộc đã vượt qua Sông Đỏ và bắt đầu
 gosub *vn_wrap_guard
 ^xâm lược lãnh thổ loài người rồi sao?」\
 return
@@ -482513,7 +482513,7 @@ return
 gosub *vn_wrap_guard
 ^「Có một trinh sát vừa trở về báo cáo! Quân ma tộc đang
 gosub *vn_wrap_guard
-^băng qua sông Red River!」\
+^băng qua sông Sông Đỏ!」\
 return
 
 *vn_text_030606
@@ -482594,7 +482594,7 @@ return
 
 *vn_text_030618
 gosub *vn_wrap_guard
-^「……Ngài sẽ khởi hành đến Red River sao?」\
+^「……Ngài sẽ khởi hành đến Sông Đỏ sao?」\
 return
 
 *vn_text_030619
@@ -482844,7 +482844,7 @@ return
 
 *vn_text_030660
 gosub *vn_wrap_guard
-^「Đây là Red River, nơi được gọi là biên giới với ma tộc
+^「Đây là Sông Đỏ, nơi được gọi là biên giới với ma tộc
 gosub *vn_wrap_guard
 ^sao? Nhìn thực tế thì dù gọi là sông nhưng cũng không sâu
 gosub *vn_wrap_guard
@@ -482890,7 +482890,7 @@ return
 
 *vn_text_030666
 gosub *vn_wrap_guard
-^「Tôi nghĩ điều quan trọng là cứ thế vượt qua Red River và
+^「Tôi nghĩ điều quan trọng là cứ thế vượt qua Sông Đỏ và
 gosub *vn_wrap_guard
 ^tấn công thẳng vào ma thành. Nếu làm vậy, danh tiếng của
 gosub *vn_wrap_guard
@@ -482969,7 +482969,7 @@ return
 
 *vn_text_030679
 gosub *vn_wrap_guard
-^「Hà, hà! Quân loài người đã bắt đầu vượt Red River rồi ạ!
+^「Hà, hà! Quân loài người đã bắt đầu vượt Sông Đỏ rồi ạ!
 gosub *vn_wrap_guard
 ^」\
 return
@@ -484445,7 +484445,7 @@ return
 
 *vn_text_030921
 gosub *vn_wrap_guard
-^Vì ma tộc mà Red River đã bị nhuộm đỏ theo đúng nghĩa
+^Vì ma tộc mà Sông Đỏ đã bị nhuộm đỏ theo đúng nghĩa
 gosub *vn_wrap_guard
 ^đen――
 return
@@ -484896,7 +484896,7 @@ return
 
 *vn_text_031000
 gosub *vn_wrap_guard
-^「Là 【Núi Heavy】 nằm ở phía tây Red River đó? Cậu cũng
+^「Là 【Núi Heavy】 nằm ở phía tây Sông Đỏ đó? Cậu cũng
 gosub *vn_wrap_guard
 ^biết nơi này mà đúng không?」\
 return
@@ -484989,7 +484989,7 @@ return
 
 *vn_text_031015
 gosub *vn_wrap_guard
-^「Rừng Red River đang cháy!? Ngọn lửa cứ thế lan về phía
+^「Rừng Sông Đỏ đang cháy!? Ngọn lửa cứ thế lan về phía
 gosub *vn_wrap_guard
 ^nam...! Cứ đà này thì lửa sẽ lan đến tận làng Iris――!?」\
 return
@@ -486498,7 +486498,7 @@ return
 gosub *vn_wrap_guard
 ^「Nhờ vậy mà hoàng tử vì quá ham công danh đã bị dụ đến
 gosub *vn_wrap_guard
-^Red River, nơi chúng tôi đã giăng sẵn bẫy. Thật sự là một
+^Sông Đỏ, nơi chúng tôi đã giăng sẵn bẫy. Thật sự là một
 gosub *vn_wrap_guard
 ^sự giúp đỡ quý giá」\
 return
@@ -487308,7 +487308,7 @@ return
 gosub *vn_wrap_guard
 ^「Báo cáo!! Quân Đại Ma Vương chúng ta đã tiến nam
 gosub *vn_wrap_guard
-^xuống Red River và bình định được cả thành Miser!!」\
+^xuống Sông Đỏ và bình định được cả thành Miser!!」\
 return
 
 *vn_text_031393
@@ -492649,7 +492649,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^hiện tại! Đám người ở kinh đô chắc chắn cũng muốn biết
 gosub *vn_wrap_guard
-^chi tiết về Red River!」\
+^chi tiết về Sông Đỏ!」\
 return
 
 *vn_text_032298
@@ -496319,7 +496319,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^thành Lagrima này. Tôi sẽ không gửi viện binh đến pháo
 gosub *vn_wrap_guard
-^đài đó. Tôi không muốn lặp lại sai lầm ở Red River một lần
+^đài đó. Tôi không muốn lặp lại sai lầm ở Sông Đỏ một lần
 gosub *vn_wrap_guard
 ^nữa」\
 return
@@ -496469,7 +496469,7 @@ return
 gosub *vn_wrap_guard
 ^「Ư...! Khụ, khụ...! Thật... thật ngu xuẩn! Ngài nghĩ rằng có
 gosub *vn_wrap_guard
-^thể che giấu thất bại ở Red River và sự xâm lược của ma tộc
+^thể che giấu thất bại ở Sông Đỏ và sự xâm lược của ma tộc
 gosub *vn_wrap_guard
 ^mãi được sao...!?」\
 return
@@ -501394,7 +501394,7 @@ return
 gosub *vn_wrap_guard
 ^「Cái gì!? Hoàng tử Cembalo đã mất? Trên báo viết rằng
 gosub *vn_wrap_guard
-^ngài ấy đã trở về an toàn từ Red River mà? Vậy thì, kẻ hiện
+^ngài ấy đã trở về an toàn từ Sông Đỏ mà? Vậy thì, kẻ hiện
 gosub *vn_wrap_guard
 ^đang ở trong thành là ai!?」\
 return
@@ -501954,7 +501954,7 @@ return
 gosub *vn_wrap_guard
 ^「Cũng đã lâu lắm rồi kể từ lần đầu ta gặp cháu nhỉ. Ta ghé
 gosub *vn_wrap_guard
-^qua Desire là vì sau thất bại thảm hại ở Red River, ta cảm
+^qua Desire là vì sau thất bại thảm hại ở Sông Đỏ, ta cảm
 gosub *vn_wrap_guard
 ^thấy chán ngấy cuộc sống hiệp sĩ...」\
 return
@@ -502467,7 +502467,7 @@ return
 
 *vn_text_033867
 gosub *vn_wrap_guard
-^「Nư……! Không có chuyện đó! Trận chiến ở Red River đã
+^「Nư……! Không có chuyện đó! Trận chiến ở Sông Đỏ đã
 gosub *vn_wrap_guard
 ^thắng lợi, và Hoàng tử Cembalo vẫn còn khỏe mạnh!」\
 return
@@ -502476,7 +502476,7 @@ return
 gosub *vn_wrap_guard
 ^「Đúng như lời chị Renalith nói, anh trai tôi chắc hẳn đã
 gosub *vn_wrap_guard
-^chết trong trận ác chiến ở Red River rồi…… Ngài nghĩ có
+^chết trong trận ác chiến ở Sông Đỏ rồi…… Ngài nghĩ có
 gosub *vn_wrap_guard
 ^thể dùng kẻ đóng thế để che giấu mãi được sao?」\
 return
@@ -502671,7 +502671,7 @@ return
 gosub *vn_wrap_guard
 ^「Ta từng nghĩ Hoàng tử Cembalo đã sống sót sau trận
 gosub *vn_wrap_guard
-^chiến Red River, nhưng nhìn vào báo cáo thì khả năng cao
+^chiến Sông Đỏ, nhưng nhìn vào báo cáo thì khả năng cao
 gosub *vn_wrap_guard
 ^đó là kẻ giả mạo」\
 return
@@ -502804,7 +502804,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^danh tính thật sự của người đó chắc chắn là cô gái nữ tu mà
 gosub *vn_wrap_guard
-^chúng ta đã gặp ở Red River」\
+^chúng ta đã gặp ở Sông Đỏ」\
 return
 
 *vn_text_033917
@@ -503748,7 +503748,7 @@ return
 gosub *vn_wrap_guard
 ^「……Ta thực sự xin lỗi vì đã để em, với tư cách là ca nữ
 gosub *vn_wrap_guard
-^của loài người, phải tiến ra tiền tuyến của Red River. Thú
+^của loài người, phải tiến ra tiền tuyến của Sông Đỏ. Thú
 gosub *vn_wrap_guard
 ^thật, dù em có chém ta thì ta cũng không một lời oán
 gosub *vn_wrap_guard
@@ -503898,7 +503898,7 @@ return
 gosub *vn_wrap_guard
 ^「Đã lâu không gặp, thưa ngài Hiệp sĩ trưởng. Tôi bị lạc
 gosub *vn_wrap_guard
-^khỏi quân đội trong lúc rút lui khỏi Red River, nhưng sau
+^khỏi quân đội trong lúc rút lui khỏi Sông Đỏ, nhưng sau
 gosub *vn_wrap_guard
 ^đó đã quay về Lagrima thông qua Desire và Seaside」\
 return
@@ -503921,7 +503921,7 @@ return
 
 *vn_text_034095
 gosub *vn_wrap_guard
-^「Trận chiến ở Red River, cậu có nhìn thấy giây phút cuối
+^「Trận chiến ở Sông Đỏ, cậu có nhìn thấy giây phút cuối
 gosub *vn_wrap_guard
 ^cùng của cha mình không?」\
 return
@@ -505070,7 +505070,7 @@ return
 
 *vn_text_034278
 gosub *vn_wrap_guard
-^「Cô gái này――? Có thật là đứa con gái ở Red River không
+^「Cô gái này――? Có thật là đứa con gái ở Sông Đỏ không
 gosub *vn_wrap_guard
 ^vậy? Con bé này mà là Anh hùng Desire sao?」\
 return
@@ -505807,7 +505807,7 @@ return
 gosub *vn_wrap_guard
 ^「...Tôi đang suy nghĩ. Tại sao một cô gái mình đầy thương
 gosub *vn_wrap_guard
-^tích bị ném xuống sông ở Red River, lại có thể vươn lên
+^tích bị ném xuống sông ở Sông Đỏ, lại có thể vươn lên
 gosub *vn_wrap_guard
 ^thành mối đe dọa đối với ma tộc...」\
 return
@@ -505852,7 +505852,7 @@ return
 gosub *vn_wrap_guard
 ^「Mà, chuyện đã qua rồi. Mà nói đúng ra, nếu giết quách cô
 gosub *vn_wrap_guard
-^ta ở Red River thì đã không trở thành vấn đề lớn thế này」\
+^ta ở Sông Đỏ thì đã không trở thành vấn đề lớn thế này」\
 return
 
 *vn_text_034407
@@ -506236,7 +506236,7 @@ return
 gosub *vn_wrap_guard
 ^「Từ đây chúng ta sẽ đi qua lối thông đông tây để đến
 gosub *vn_wrap_guard
-^Thành Miser. Sau đó đi qua làng Iris để tới Red River. Và
+^Thành Miser. Sau đó đi qua làng Iris để tới Sông Đỏ. Và
 gosub *vn_wrap_guard
 ^điểm đến cuối cùng là Ma thành Seikima」\
 return
@@ -507279,7 +507279,7 @@ return
 gosub *vn_wrap_guard
 ^——Pignar bàn giao Renalith đang ngủ say rồi lại điều
 gosub *vn_wrap_guard
-^khiển xe ngựa chạy về phía Red River.\
+^khiển xe ngựa chạy về phía Sông Đỏ.\
 return
 
 *vn_text_034644
@@ -507848,7 +507848,7 @@ return
 
 *vn_text_034738
 gosub *vn_wrap_guard
-^「Chính xác! Vậy thì hãy chạy một mạch đến Red River
+^「Chính xác! Vậy thì hãy chạy một mạch đến Sông Đỏ
 gosub *vn_wrap_guard
 ^nào. Đồng ý chứ, Renalith?」\
 return
@@ -508048,7 +508048,7 @@ return
 gosub *vn_wrap_guard
 ^「Hà, hà... Chúng ta đã thoát khỏi ma thành một cách
 gosub *vn_wrap_guard
-^thuận lợi rồi... Một chút nữa thôi là đến Red River vùng
+^thuận lợi rồi... Một chút nữa thôi là đến Sông Đỏ vùng
 gosub *vn_wrap_guard
 ^biên giới rồi」\
 return
@@ -508150,7 +508150,7 @@ return
 
 *vn_text_034788
 gosub *vn_wrap_guard
-^――――――【Red River】―――――――
+^――――――【Sông Đỏ】―――――――
 return
 
 *vn_text_034789
@@ -508175,7 +508175,7 @@ return
 
 *vn_text_034793
 gosub *vn_wrap_guard
-^「Hà, hà... Cuối cùng cũng chạy thoát được đến Red River
+^「Hà, hà... Cuối cùng cũng chạy thoát được đến Sông Đỏ
 gosub *vn_wrap_guard
 ^rồi...」\
 return
@@ -508339,7 +508339,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^linh chủ của elf. Chắc hẳn cậu ấy đã dự đoán Hiệp định
 gosub *vn_wrap_guard
-^Tam tộc sẽ tan vỡ nên mới một mình đến Red River」\
+^Tam tộc sẽ tan vỡ nên mới một mình đến Sông Đỏ」\
 return
 
 *vn_text_034818
@@ -509293,7 +509293,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^không có thời gian để u sầu đâu. Mau đến thành Miser thôi.
 gosub *vn_wrap_guard
-^Quân Quỷ Diện đang đuổi theo từ Red River đấy」\
+^Quân Quỷ Diện đang đuổi theo từ Sông Đỏ đấy」\
 return
 
 *vn_text_034982
@@ -509303,7 +509303,7 @@ return
 
 *vn_text_034983
 gosub *vn_wrap_guard
-^「――――!! Quân Quỷ Diện ở Red River đã đuổi đến tận
+^「――――!! Quân Quỷ Diện ở Sông Đỏ đã đuổi đến tận
 gosub *vn_wrap_guard
 ^đây rồi sao...!?」\
 return
@@ -509727,7 +509727,7 @@ return
 gosub *vn_wrap_guard
 ^(Mọi người ở các làng khác... không biết giờ ra sao rồi...
 gosub *vn_wrap_guard
-^Còn em Renalith, người đã đi đến Red River thì...)\
+^Còn em Renalith, người đã đi đến Sông Đỏ thì...)\
 return
 
 *vn_text_035056
@@ -509786,7 +509786,7 @@ return
 gosub *vn_wrap_guard
 ^「Renalith, em vẫn còn sống sao? Chị cứ ngỡ em đã bị ma
 gosub *vn_wrap_guard
-^tộc giết ở Red River rồi chứ!」\
+^tộc giết ở Sông Đỏ rồi chứ!」\
 return
 
 *vn_text_035067
@@ -511917,7 +511917,7 @@ return
 
 *vn_text_035421
 gosub *vn_wrap_guard
-^「Đúng vậy ạ! Sau trận chiến Red River, cháu đã chăm sóc
+^「Đúng vậy ạ! Sau trận chiến Sông Đỏ, cháu đã chăm sóc
 gosub *vn_wrap_guard
 ^ngài ấy đến hơi thở cuối cùng. Hoàng tử Cembalo thực sự
 gosub *vn_wrap_guard
@@ -511928,7 +511928,7 @@ return
 gosub *vn_wrap_guard
 ^「Ta là Hiệp sĩ trưởng Fan! Hoàng tử đã cùng cha mình là
 gosub *vn_wrap_guard
-^Sitar tử trận trong trận chiến Red River! Ta xin khẳng định
+^Sitar tử trận trong trận chiến Sông Đỏ! Ta xin khẳng định
 gosub *vn_wrap_guard
 ^điều đó!」\
 return
@@ -512031,7 +512031,7 @@ return
 
 *vn_text_035439
 gosub *vn_wrap_guard
-^「Che giấu thất bại ở Red River và cái chết của anh trai, rồi
+^「Che giấu thất bại ở Sông Đỏ và cái chết của anh trai, rồi
 gosub *vn_wrap_guard
 ^vì toan tính cá nhân mà bán Anh hùng Desire cho ma
 gosub *vn_wrap_guard
@@ -520762,7 +520762,7 @@ return
 
 *vn_text_036826
 gosub *vn_wrap_guard
-^「Đây sẽ là trận đại chiến lớn nhất kể từ sau trận Red River.
+^「Đây sẽ là trận đại chiến lớn nhất kể từ sau trận Sông Đỏ.
 gosub *vn_wrap_guard
 ^Lần này nhất định phải thắng」\
 return
@@ -520820,7 +520820,7 @@ return
 gosub *vn_wrap_guard
 ^「Nư nư...! Chúng ta không đời nào im lặng như vậy! Nhất
 gosub *vn_wrap_guard
-^định ta sẽ khôi phục lãnh thổ cho đến tận Red River! Nhân
+^định ta sẽ khôi phục lãnh thổ cho đến tận Sông Đỏ! Nhân
 gosub *vn_wrap_guard
 ^danh Hoàng đế Raholnia!」\
 return
@@ -523044,7 +523044,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^đúng là lần đầu tôi thấy. Có vẻ sẽ sôi động hơn cả quyết
 gosub *vn_wrap_guard
-^chiến ở Red River đấy」\
+^chiến ở Sông Đỏ đấy」\
 return
 
 *vn_text_037171
@@ -523063,7 +523063,7 @@ return
 gosub *vn_wrap_guard
 ^「...Tôi đang run lên vì phấn khích. Để chứng minh chiến
 gosub *vn_wrap_guard
-^thắng ở Red River không phải là do may mắn, tôi tuyệt đối
+^thắng ở Sông Đỏ không phải là do may mắn, tôi tuyệt đối
 gosub *vn_wrap_guard
 ^không thể thua trong trận quyết chiến này」\
 return
@@ -523401,7 +523401,7 @@ return
 gosub *vn_wrap_guard
 ^「Tuyệt đối không thể thua được! Để rửa hận cho thất bại
 gosub *vn_wrap_guard
-^thảm hại ở Red River, cũng như để khôi phục danh tiếng
+^thảm hại ở Sông Đỏ, cũng như để khôi phục danh tiếng
 gosub *vn_wrap_guard
 ^của đế quốc, trận chiến này là tất cả!」\
 return
@@ -524907,7 +524907,7 @@ return
 gosub *vn_wrap_guard
 ^「Không cần báo cáo tao cũng thấy... cái quái gì vậy, con
 gosub *vn_wrap_guard
-^quái vật đó... ngay cả trong trận chiến ở Red River tao cũng
+^quái vật đó... ngay cả trong trận chiến ở Sông Đỏ tao cũng
 gosub *vn_wrap_guard
 ^chưa từng thấy bao giờ...」\
 return
@@ -526109,7 +526109,7 @@ return
 
 *vn_text_037677
 gosub *vn_wrap_guard
-^「Cơ hội đây rồi...! Trận chiến ở Red River, tao không bao
+^「Cơ hội đây rồi...! Trận chiến ở Sông Đỏ, tao không bao
 gosub *vn_wrap_guard
 ^giờ quên! Tao sẽ giết chết tên Orc đeo kính đó để trả thù
 gosub *vn_wrap_guard
@@ -526683,7 +526683,7 @@ return
 gosub *vn_wrap_guard
 ^「...Nếu cháu không bị Pignar bắt làm con tin, thì lẽ ra ở
 gosub *vn_wrap_guard
-^Red River đã không có ai phải chết. Đáng lẽ đã có nhiều
+^Sông Đỏ đã không có ai phải chết. Đáng lẽ đã có nhiều
 gosub *vn_wrap_guard
 ^người sống sót hơn...」\
 return
@@ -526695,7 +526695,7 @@ return
 
 *vn_text_037777
 gosub *vn_wrap_guard
-^「Vì cháu mà hàng vạn người ở Red River đã chết, làng mạc
+^「Vì cháu mà hàng vạn người ở Sông Đỏ đã chết, làng mạc
 gosub *vn_wrap_guard
 ^bị thiêu rụi... Đau đớn lắm... Cháu phải chiến đấu vì những
 gosub *vn_wrap_guard
@@ -529229,7 +529229,7 @@ return
 gosub *vn_wrap_guard
 ^「Giờ đã thu hồi được pháo đài Marison, tiếp theo ngài
 gosub *vn_wrap_guard
-^định làm gì? Liệu có kế hoạch tiến đánh Red River thông
+^định làm gì? Liệu có kế hoạch tiến đánh Sông Đỏ thông
 gosub *vn_wrap_guard
 ^qua lối đi đông tây không?」\
 return
@@ -529778,7 +529778,7 @@ gosub *vn_wrap_guard
 gosub *vn_wrap_guard
 ^không? Điều đó đối với Lagrima cũng vậy. Chúng ta phải
 gosub *vn_wrap_guard
-^khôi phục lãnh thổ cho đến tận Red River」\
+^khôi phục lãnh thổ cho đến tận Sông Đỏ」\
 return
 
 *vn_text_038277
@@ -533802,7 +533802,7 @@ return
 gosub *vn_wrap_guard
 ^「Vâng. Cô ấy đã cứu cháu khi cháu bị ném xuống sông ở
 gosub *vn_wrap_guard
-^Red River. Có những lúc cháu rơi vào tình thế ngàn cân
+^Sông Đỏ. Có những lúc cháu rơi vào tình thế ngàn cân
 gosub *vn_wrap_guard
 ^treo sợi tóc, cô ấy cũng đã kịp thời đến cứu... Vậy mà」\
 return
@@ -537885,7 +537885,7 @@ return
 
 *vn_text_039581
 gosub *vn_wrap_guard
-^Bên bờ Red River. Tại nơi đó, sau 500 năm, hiệp ước giữa
+^Bên bờ Sông Đỏ. Tại nơi đó, sau 500 năm, hiệp ước giữa
 gosub *vn_wrap_guard
 ^ba tộc gồm loài người, ma tộc và elf do những người đứng
 gosub *vn_wrap_guard
@@ -537909,7 +537909,7 @@ return
 
 *vn_text_039585
 gosub *vn_wrap_guard
-^Xác nhận lại việc lấy Red River làm biên giới như 500 năm
+^Xác nhận lại việc lấy Sông Đỏ làm biên giới như 500 năm
 gosub *vn_wrap_guard
 ^trước, và tái ký kết hiệp ước không xâm phạm kéo dài
 gosub *vn_wrap_guard
@@ -537976,7 +537976,7 @@ return
 
 *vn_text_039596
 gosub *vn_wrap_guard
-^「Hiệp ước ba tộc tại Red River, các ngươi đã vất vả rồi」\
+^「Hiệp ước ba tộc tại Sông Đỏ, các ngươi đã vất vả rồi」\
 return
 
 *vn_text_039597
@@ -541718,7 +541718,7 @@ return
 
 *vn_text_040180
 gosub *vn_wrap_guard
-^Renalith hướng ánh nhìn về phía Red River.\
+^Renalith hướng ánh nhìn về phía Sông Đỏ.\
 return
 
 *vn_text_040181
