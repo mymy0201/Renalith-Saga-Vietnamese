@@ -6,7 +6,7 @@ Bản Việt hóa Renalith Saga v1.02 chạy bằng Ponscripter trên Windows.
 
 Chép thư mục `vietnamese` vào thư mục game gốc v1.02, cùng cấp với các thư mục
 `aa`, `at`, `bb`, `ccc`, `image` và `sound`. Giữ nguyên cấu trúc thư mục.
-Chạy `vietnamese/Play-Vietnamese.bat`. Bản vá trên GitHub cần dữ liệu game gốc.
+Chạy `vietnamese/Play-Vietnamese.exe`. Bản vá trên GitHub cần dữ liệu game gốc.
 
 ## Bản ZIP đầy đủ cục bộ
 
